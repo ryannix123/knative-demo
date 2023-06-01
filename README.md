@@ -1,2 +1,17 @@
-# knative-demo
-Use Serverless to dramatically cut costs!
+# Knative-demo
+Knative for serverless 
+
+**Tools**
+
+ 1. The Knative Command Line Interface [https://knative.dev/docs/client/install-kn/#verifying-cli-binaries](https://knative.dev/docs/client/install-kn/#verifying-cli-binaries)
+
+*You'll need a Kubernetes cluster of some kind. In the demo, I use the free OpenShift Developer's Sanbox. You can create a free Red Hat account at [developers.redhat.com](developers.redhat.com). Alternatively, you can also use [OpenShift Local](https://developers.redhat.com/products/openshift-local/overview) is a terrific development environment.
+
+ 2. The OpenShift Command Line Interface
+
+You can download these tools together through the OpenShift Developer Sandbox console by clicking on the [Help and clicking Command Line tools.](https://cookbook.openshift.org/accessing-an-openshift-cluster/where-can-i-download-the-openshift-command-line-tool.html)
+
+
+3. A sample application
+
+You're welcome to use my sample Quarkus app from my Quay repository. Otherwise, please try your own app and experiment with how it responds when deployed with Knative. ***Not all runtimes are appropriate for Serverless***. i.e., long spin up times from zero.
