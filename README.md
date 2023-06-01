@@ -1,7 +1,7 @@
 # Knative-demo
 Knative for serverless 
 
-[YouTube Demo] (https://youtu.be/p0xx9yTcya8)
+[YouTube Demo](https://youtu.be/p0xx9yTcya8)
 
 **Tools**
 
