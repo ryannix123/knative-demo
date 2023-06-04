@@ -17,3 +17,6 @@ You can download these tools together through the OpenShift Developer Sandbox co
 3. A sample application
 
 You're welcome to use my sample Quarkus app from my Quay repository. Otherwise, please try your own app and experiment with how it responds when deployed with Knative. ***Not all runtimes are appropriate for Serverless***. i.e., long spin up times from zero.
+
+4. Some kind of load testing tool to throw lots of traffic at your serverless app!
+In my demo, I use the terrific [fortio] (https://github.com/fortio/fortio) tool, which is part of the Isitio project. Howeve,r another great tool to try is [Dddosify] (https://ddosify.com/)
