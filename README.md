@@ -5,7 +5,7 @@ Knative for serverless
 
 **Tools**
 
- 1. The Knative Command Line Interface [https://knative.dev/docs/client/install-kn/#verifying-cli-binaries](https://knative.dev/docs/client/install-kn/#verifying-cli-binaries)
+ 1. The [Knative Command Line Interface](https://knative.dev/docs/client/install-kn/#verifying-cli-binaries)
 
 *You'll need a Kubernetes cluster of some kind. In the demo, I use the free OpenShift Developer's Sanbox. You can create a free Red Hat account at [developers.redhat.com](developers.redhat.com). Alternatively, you can also use [OpenShift Local](https://developers.redhat.com/products/openshift-local/overview) is a terrific development environment.
 
